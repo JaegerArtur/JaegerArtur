@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 7th semester Computer Science student [URI Santo Ângelo]</p>
+<p align="left">📚 8th semester Computer Science student [URI Santo Ângelo]</p>
 
 ###
 
