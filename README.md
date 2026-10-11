@@ -6,7 +6,7 @@
 <!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
 <p align="center">
   <a href="https://github.com/JaegerArtur">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+student;Construindo+o+CardBoxd+%F0%9F%8E%B2;React+%2B+NestJS+%2B+PostgreSQL;Still+figuring+out+where+I+fit+in" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+student;" alt="Typing SVG"/>
   </a>
 </p>
 
