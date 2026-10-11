@@ -48,7 +48,7 @@ const artur = {
   role: "Computer Science Student",
   focus: "exploring",            // ainda decidindo / still deciding
   currentProject: "CardBoxd",
-  stack: ["JavaScript", "TypeScript", "React", "Node", "Express", "NestJS",
+  stack: ["JavaScript", "TypeScript", "React", "Node", "Express",
           "Python", "Docker", "PostgreSQL", "Prisma"],
   contact: "artur.jaeger929@gmail.com",
 };
