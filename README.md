@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/artur-jaeger"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/></a>
   <a href="mailto:artur.jaeger929@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=JaegerArtur&style=for-the-badge&color=0f766e&label=VIEWS" alt="Profile views"/>
 </p>
 
 ---
