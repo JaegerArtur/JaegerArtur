@@ -1,43 +1,172 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- ═══════════════════════════ BANNER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:0f766e,100:2dd4bf&text=Artur%20Jaeger&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Artur Jaeger"/>
+</p>
 
-###
+<!-- ═══════════════════════════ TYPING ═══════════════════════════ -->
+<p align="center">
+  <a href="https://github.com/JaegerArtur">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=2DD4BF&center=true&vCenter=true&width=560&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Computer+Science+student;JavaScript+%7C+TypeScript+%7C+Python;Ainda+descobrindo+meu+caminho+%F0%9F%A7%AD;Still+figuring+out+where+I+fit+in" alt="Typing SVG"/>
+  </a>
+</p>
 
-<p align="left">My name is Artur and I'm a Computer Science Student, from Brasil</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/artur-jaeger"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/></a>
+  <a href="mailto:artur.jaeger929@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=JaegerArtur&style=for-the-badge&color=0f766e&label=VIEWS" alt="Profile views"/>
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+<!-- ═══════════════════════════ SOBRE MIM ═══════════════════════════ -->
+## `$ whoami`
 
-###
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="left">📚 8th semester Computer Science student [URI Santo Ângelo]</p>
+**🇧🇷 Português**
 
-###
+Sou o Artur, estudante de Ciência da Computação.
 
-<h2 align="left">I code with</h2>
+Ainda não escolhi uma área — e tudo bem. Por enquanto, passo pelo front-end com React, pelo back-end com Node e Express, por Python, Docker e bancos com PostgreSQL, vendo o que faz mais sentido pra mim.
 
-###
+Este perfil é o registro desse caminho.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+</td>
+<td width="50%" valign="top">
 
-###
+**🇺🇸 English**
+
+I'm Artur, a Computer Science student.
+
+I haven't picked a specific area yet — and that's fine. For now I'm moving across front-end with React, back-end with Node and Express, Python, Docker and PostgreSQL, finding out what clicks.
+
+This profile is where that journey gets logged.
+
+</td>
+</tr>
+</table>
+
+```js
+const artur = {
+  role: "Computer Science Student",
+  focus: "exploring",          // ainda decidindo / still deciding
+  stack: ["JavaScript", "TypeScript", "React", "Node", "Express",
+          "Python", "Docker", "PostgreSQL"],
+  contact: "artur.jaeger929@gmail.com",
+};
+```
+
+---
+
+<!-- ═══════════════════════════ TECNOLOGIAS ═══════════════════════════ -->
+## `$ stack --list`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,py,docker,postgres&theme=dark&perline=8" alt="Tech stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E"/>
+  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
+## `$ ls ./projetos`
+
+<!-- Troque TROQUE_AQUI_1..4 pelo nome exato de repositórios seus.
+     Descrição, linguagem e estrelas são puxadas automaticamente do repositório.
+     Para ter menos cards, apague o bloco <a>...</a> correspondente. -->
+
+<p align="center">
+  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_1&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 1"/>
+  </a>
+  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_2&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 2"/>
+  </a>
+  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_3&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 3"/>
+  </a>
+  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_4&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 4"/>
+  </a>
+</p>
+
+---
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## `$ git log --stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaegerArtur&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10&custom_title=GitHub%20Stats" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaegerArtur&layout=compact&langs_count=8&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10&custom_title=Top%20Languages" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JaegerArtur&background=0d1117&border=0d1117&ring=2dd4bf&fire=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=2dd4bf&sideLabels=c9d1d9&dates=8b949e&stroke=30363d&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaegerArtur&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=ffffff&area=true&area_color=2dd4bf&hide_border=true&radius=10&title_color=2dd4bf&custom_title=Contribution%20Activity" width="100%" alt="Activity Graph"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════ TROFÉUS ═══════════════════════════ -->
+## `$ cat trophies.txt`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JaegerArtur&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## `$ ./snake --eat contributions`
+
+<!-- Gerado pelo GitHub Action em .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaegerArtur/JaegerArtur/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaegerArtur/JaegerArtur/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/JaegerArtur/JaegerArtur/output/github-snake-dark.svg" alt="Snake eating contributions"/>
+  </picture>
+</p>
+
+---
+
+<!-- ═══════════════════════════ CONTATO ═══════════════════════════ -->
+## `$ contact --me`
+
+<p align="center">
+  🇧🇷 Quer trocar ideia sobre código, faculdade ou algum projeto? Me chama.<br/>
+  🇺🇸 Want to talk about code, college or a project? Reach out.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/artur-jaeger">
+    <img src="https://img.shields.io/badge/LinkedIn-artur--jaeger-0d1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0f766e" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:artur.jaeger929@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-artur.jaeger929-0d1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF&labelColor=0f766e" alt="Email"/>
+  </a>
+</p>
+
+<!-- ═══════════════════════════ RODAPÉ ═══════════════════════════ -->
+<p align="center">
+  <sub><code>// compilando um commit de cada vez · compiling one commit at a time</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2dd4bf,50:0f766e,100:0d1117" width="100%" alt="Footer"/>
+</p>
