@@ -28,7 +28,7 @@
 
 Sou o Artur, estudante de Ciência da Computação.
 
-Ainda não escolhi uma área — e tudo bem. Por enquanto, passo pelo front-end com React, pelo back-end com Node e Express, por Python, Docker e bancos com PostgreSQL, vendo o que faz mais sentido pra mim.
+Por enquanto, passo pelo front-end com React, pelo back-end com Node e Express, por Python, Docker e bancos com PostgreSQL, vendo o que faz mais sentido pra mim.
 
 Este perfil é o registro desse caminho.
 
@@ -39,7 +39,7 @@ Este perfil é o registro desse caminho.
 
 I'm Artur, a Computer Science student.
 
-I haven't picked a specific area yet — and that's fine. For now I'm moving across front-end with React, back-end with Node and Express, Python, Docker and PostgreSQL, finding out what clicks.
+For now I'm moving across front-end with React, back-end with Node and Express, Python, Docker and PostgreSQL, finding out what clicks.
 
 This profile is where that journey gets logged.
 
@@ -82,22 +82,15 @@ const artur = {
 <!-- ═══════════════════════════ PROJETOS ═══════════════════════════ -->
 ## `$ ls ./projetos`
 
-<!-- Troque TROQUE_AQUI_1..4 pelo nome exato de repositórios seus.
-     Descrição, linguagem e estrelas são puxadas automaticamente do repositório.
-     Para ter menos cards, apague o bloco <a>...</a> correspondente. -->
-
 <p align="center">
-  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_1&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 1"/>
+  <a href="https://github.com/JaegerArtur/prato-forte-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=prato-forte-api&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 1"/>
   </a>
-  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_2&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 2"/>
+  <a href="https://github.com/JaegerArtur/cardboxd_api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=cardboxd_api&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 2"/>
   </a>
-  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_3&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 3"/>
-  </a>
-  <a href="https://github.com/JaegerArtur/TROQUE_AQUI_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=TROQUE_AQUI_4&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 4"/>
+  <a href="https://github.com/JaegerArtur/cardboxd-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaegerArtur&repo=cardboxd-web&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&hide_border=true&border_radius=10" width="49%" alt="Projeto 3"/>
   </a>
 </p>
 
